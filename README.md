@@ -1,6 +1,14 @@
 # learning_linkedin_office_js_angular_word
 
-# office addin
+# install
+
+```shell
+npm i ajv@latest 
+npm i
+npm start
+```
+
+# Notes
 * let you extend office applications 
 * office already has millions of users  
 - [office global docs](https://developer.microsoft.com/en-us/office)    
